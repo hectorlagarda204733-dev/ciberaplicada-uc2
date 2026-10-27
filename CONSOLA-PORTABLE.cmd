@@ -11,7 +11,6 @@ set "PATH=%~dp0runtime;%PATH%"
 echo TERMINAL PORTABLE UC2 - Node y npm incluidos en el USB
 echo npm test               Pruebas de integracion
 echo npm run test:browser   Pruebas en Microsoft Edge
-echo npm run slides         Regenera la presentacion, reemplazando los archivos generados
 echo exit                   Cierra esta terminal
 "%ComSpec%" /d /k
 popd

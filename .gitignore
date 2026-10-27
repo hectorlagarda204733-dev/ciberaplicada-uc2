@@ -1,3 +1,8 @@
 node_modules/
 runtime/
 *.log
+/*.md
+/GUIA-USB.txt
+/lectura/
+/presentacion/
+/herramientas/
